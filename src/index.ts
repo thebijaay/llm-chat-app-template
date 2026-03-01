@@ -1,7 +1,7 @@
 /**
- * LLM Chat Application Template
+ * The Bi Jay Chat
  *
- * A simple chat application using Cloudflare Workers AI.
+ * A simple chat application using Bi Jay AI.
  * This template demonstrates how to implement an LLM-powered chat interface with
  * streaming responses using Server-Sent Events (SSE).
  *
